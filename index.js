@@ -25,9 +25,9 @@ function sayHiToGrandma(string) {
 }
 function sayHiToGrandma(string) {
   string === uppercase
-  console.log("YES INDEED!")
+  console.log("I love you, too.")
 }
 function sayHiToGrandma(string) {
   string === mixedCase
-  return "I love you, too."
+  return "YES INDEED!"
 }
