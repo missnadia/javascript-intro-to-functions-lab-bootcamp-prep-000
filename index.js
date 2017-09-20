@@ -21,11 +21,11 @@ mixedCase.toLowerCase() === mixedCase
 
 function sayHiToGrandma(string) {
   string === lowercase
-  return("I can\'t hear you!")
+  console.log("I can\'t hear you!")
 }
 function sayHiToGrandma(string) {
   string === uppercase
-  return("YES INDEED!")
+  console.log("YES INDEED!")
 }
 function sayHiToGrandma(string) {
   string === mixedCase
