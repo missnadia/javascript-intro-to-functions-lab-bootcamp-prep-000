@@ -17,6 +17,5 @@ function sayHiToGrandma(string) {
   console.log(string.toUpperCase())
 }
 function sayHiToGrandma(string) {
-  string === mixedCase
   return "I love you, too."
 }
