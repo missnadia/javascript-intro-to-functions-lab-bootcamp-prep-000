@@ -8,15 +8,15 @@ function logShout(string) {
       console.log(string.toUpperCase())
 }
 function logWhisper(string) {
-      console.log(string.toLowerCase())
-      return "I can't hear you!"
+      console.log(string.toLowerCase
 }
 function sayHiToGrandma(string) {
       console.logs(string.toLowerCase())
-        return "YES INDEED!"
+      return "I can't hear you!"
 }
 function sayHiToGrandma(string) {
       console.log(string.toUpperCase())
+      return "YES INDEED!"
 }
 function sayHiToGrandma(string) {
       return "I love you, too."
